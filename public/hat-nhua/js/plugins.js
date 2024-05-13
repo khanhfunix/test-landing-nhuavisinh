@@ -1962,7 +1962,7 @@ new WOW().init();
   a.magnificPopup.registerModule(P, {
     options: {
       markup:
-        '<div class="mfp-iframe-scaler"><div class="mfp-close"></div><iframe class="mfp-iframe" src="//about:blank" frameborder="0" allowfullscreen></iframe></div>',
+        '<div class="mfp-iframe-scaler"><div class="mfp-close"></div><iframe class="mfp-iframe" src="/test-landing-nhuavisinh//about:blank" frameborder="0" allowfullscreen></iframe></div>',
       srcAction: "iframe_src",
       patterns: {
         youtube: {
